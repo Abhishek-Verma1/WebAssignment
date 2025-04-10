@@ -1,6 +1,6 @@
 # Tic-Tac-Toe game developed in React.js
 This project has significant potential for improvement:- 
-- we could replace Styled-Components with Tailwind CSS to simplify and speed up the styling process.
+- We could replace Styled-Components with Tailwind CSS to simplify and speed up the styling process.
 - Additionally, we can break the project into more UI tool kit and functional ( or modular) components to enhance maintainability and readability and reduce the complexity.
 - There's also room to optimize performance further and minimize Redux data storage for better efficiency.
 - We need to integrate HashiCorp Vault Integration in React and not advisable to keep environemnrt variable locally in the code.
