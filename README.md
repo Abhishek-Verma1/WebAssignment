@@ -11,6 +11,8 @@ This project has significant potential for improvement:-
 
 ## How to run this project
 
+### Please connect and run the backend files locally from this GitHub repo: https://github.com/Abhishek-Verma1/BackendFiles.
+
 In the project directory,
 - Install the depedencies (minimum node version should be 18)
 
